@@ -1,1 +1,1 @@
-Unfinished react+tailwind Hero section 
+Unfinished Hero section using react & tailwindcss
